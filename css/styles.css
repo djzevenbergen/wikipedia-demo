@@ -45,10 +45,15 @@ img {
   
 }
 
-.header-box {
+ .header-box {
   background-color: lightgrey;
   height: 150px;
   width: 1140px;
   margin: 10px;
+  padding:10px;
 
+}
+
+.move-right {
+  float: right;
 }
