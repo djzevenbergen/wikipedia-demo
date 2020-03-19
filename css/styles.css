@@ -3,6 +3,16 @@
 
 }
 
+.sidebar ul{
+  list-style: none;
+}
+
+.sidebar p {
+  padding-left: 40px;
+  text-decoration: underline;
+
+}
+
 body {
   background-color: white;
 }
@@ -12,4 +22,15 @@ body {
 }
 .float-right {
   float: right;
+}
+#float-left {
+  float: left;
+}
+
+img {
+  padding: 10px;
+}
+
+#header-text {
+  font-size: small;
 }
