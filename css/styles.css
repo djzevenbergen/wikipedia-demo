@@ -33,4 +33,22 @@ img {
 
 #header-text {
   font-size: small;
+  float: left;
+}
+
+#top-right-header {
+  float: right;
+  padding-bottom: 30px;
+}
+.intro{
+  float: right;
+  
+}
+
+.header-box {
+  background-color: lightgrey;
+  height: 150px;
+  width: 1140px;
+  margin: 10px;
+
 }
